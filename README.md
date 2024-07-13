@@ -1,5 +1,16 @@
 # Audio2Vector: Audio to Vector Conversion Package
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [File Structure](#file-structure)
+- [Models & Data](#models--data)
+- [Contributing](#contributing)
+
 ## Description
 
 Audio2Vec is a Python package designed to convert audio data into vector representations. This package is useful for various applications in machine learning and data analysis where audio data needs to be processed and analyzed.
