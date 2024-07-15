@@ -5,7 +5,7 @@
 [![Made with ML](https://img.shields.io/badge/Made%20with-ML-red)](https://github.com/madewithml)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)                    
 
-# Audio2Vector: Audio to Vector Conversion Package
+# Audio2Vector: Audio to Vector Encoding Package
 
 ## Table of Contents
 
